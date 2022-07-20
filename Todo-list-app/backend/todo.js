@@ -10,4 +10,4 @@ const todoSchema =new Schema({
 // Model
 const Todo=model('Todo' , todoSchema)
 
-module.exports = Todo ;
+module.exports = Todo 
